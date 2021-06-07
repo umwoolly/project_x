@@ -4,12 +4,9 @@
 
 [Project Details](https://en.wikipedia.org/wiki/Project_X_(2012_film))
 
-## Authored by: Professor X##
+## Authored by: Professor X ##
 
 ### Collaborators:
 
--
--
--
 -
 -
